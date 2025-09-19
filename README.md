@@ -73,5 +73,5 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 
 ## Result:
-  The program is executed successfully
+  The program is executed successfully.
 
